@@ -16,9 +16,9 @@ function Haiku2(){
 }
 function Haiku3(){
     console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("Consider me As one who loved poetry And persimmons.");
+    console.log("Winter seclusion - Listening, that evening, To the rain in the mountain.");
+    console.log("Don’t weep, insects – Lovers, stars themselves, Must part.");
 }
 
 
