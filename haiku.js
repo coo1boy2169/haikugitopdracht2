@@ -20,7 +20,12 @@ function Haiku3(){
     console.log("Winter seclusion - Listening, that evening, To the rain in the mountain.");
     console.log("Don’t weep, insects – Lovers, stars themselves, Must part.");
 }
-
+function Haiku3(){
+    console.log("haiku by:","AUTHOR");
+    console.log("First autumn morning the mirror I stare into shows my father's face.");
+    console.log("Winter seclusion - Listening, that evening, To the rain in the mountain.");
+    console.log("Don’t weep, insects – Lovers, stars themselves, Must part.");
+}
 
 //laat de code hieronder met rust
 Haiku1()
