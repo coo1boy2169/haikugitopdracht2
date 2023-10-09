@@ -2,11 +2,11 @@
 
 //plak hier de haiku functions onder elkaar
 
-function HaikuX(){
+function Haiku1(){
     console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("My life, - How much more of it remains? The night is brief.");
+    console.log("An old silent pond... A frog jumps into the pond, splash! Silence again");
+    console.log("In the twilight rain these brilliant-hued hibiscus - A lovely sunset");
 }
 function Haiku2(){
         console.log("haiku by:","Docent");
@@ -14,7 +14,7 @@ function Haiku2(){
         console.log("Blowing from the west Fallen leaves gather In the east.");
         console.log("Winter seclusion - Listening, that evening, To the rain in the mountain.");
 }
-function HaikuX(){
+function Haiku3(){
     console.log("haiku by:","AUTHOR");
     console.log("REGEL1");
     console.log("REGEL2");
