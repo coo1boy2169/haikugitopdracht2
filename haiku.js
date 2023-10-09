@@ -2,19 +2,19 @@
 
 //plak hier de haiku functions onder elkaar
 
-function HaikuX(){
+function Haiku1(){
     console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("My life, - How much more of it remains? The night is brief.");
+    console.log("An old silent pond... A frog jumps into the pond, splash! Silence again");
+    console.log("In the twilight rain these brilliant-hued hibiscus - A lovely sunset");
 }
-function HaikuX(){
+function Haiku2(){
     console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("Consider me As one who loved poetry And persimmons.");
+    console.log("Winter seclusion - Listening, that evening, To the rain in the mountain.");
+    console.log("Don’t weep, insects – Lovers, stars themselves, Must part.");
 }
-function HaikuX(){
+function Haiku3(){
     console.log("haiku by:","AUTHOR");
     console.log("REGEL1");
     console.log("REGEL2");
